@@ -1,0 +1,9 @@
+-- link_list
+
+Coding Standards
+
+http://www.ambysoft.com/essays/javaCodingStandards.html
+http://www.ambysoft.com/downloads/javaCodingStandards.pdf
+
+http://www.oracle.com/technetwork/java/index.html
+http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html

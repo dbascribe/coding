@@ -1,0 +1,19 @@
+-- sql coding standards
+
+1) general
+The hungarian method doesn't fit here very well, because column headers are sometimes formatted in
+capital letters. I prefer to seperate words by an underscore for better readability.
+
+example:
+first_name, last_name, zip_code
+
+2)
+a) constants
+Constants are written in capital letters (at least it is more readable within the source code).
+
+b) indentation
+Three spaces
+
+example:
+first line starts here
+   next line is indented with three spaces

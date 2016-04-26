@@ -1,0 +1,7 @@
+-- java coding standards
+
+1) general
+Hungarian method.
+
+example:
+firstName, lastName, zipCode

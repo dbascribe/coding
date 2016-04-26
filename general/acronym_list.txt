@@ -1,0 +1,61 @@
+-- acronym_list
+
+A
+api - application programming interface
+ascii - american standard code for information interchange
+B
+bp - bundle patch
+C
+cpu - critical patch update
+crud - create read update delete 
+cvss - common vulnerability score system
+D
+db - data base
+dbms - data base management system
+dry - don't repeat yourself
+E
+F
+G
+gui - graphical user interface
+H
+I
+ide - integrated development environment
+iso - international standardization organisation
+J
+jdk - java development kit
+jls - java language specification
+jre - java runtime environment
+jsr - java specification request
+jvm - java virtual machine
+K
+kic - keep it clean
+kiss - keep it simple and stupid
+L
+loc - lines of code
+M
+mos - my oracle support
+mvc - model view controller
+N
+na - not applicable
+O
+or - on request
+P
+psu - patch set update
+Q
+quad - quick and dirty approach
+R
+rdbms - relational data base management system
+S
+spu - security patch update
+sql - structured query language
+T
+tdd - test driven development
+U
+uml - unified modeling language
+V
+W
+X
+xp - extreme programming
+xml - extensible markup language
+Y
+Z
