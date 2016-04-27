@@ -1,0 +1,26 @@
+-- header templates
+
+-- sql templates
+
+short
+-- filename  : file_name.sql
+-- copyright : alexander tempel 2014-2016
+-- modification history:
+-- date        who         what
+-- 2016-12-31  atempel     created
+
+extended
+/*
+   version   : 1.0
+   filename  : file_name.sql
+   author    : alexander tempel
+   copyright : alexander tempel 2014-2016
+  
+   summary   : brier summary
+  
+   acknowledgements    :
+    
+   modification history:
+   date        who         what
+   2016-12-31  atempel     created
+*/
