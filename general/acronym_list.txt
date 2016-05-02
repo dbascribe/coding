@@ -1,7 +1,7 @@
 -- acronym_list
 
 A
-ace - access control entry
+ace - access control entry 
 api - application programming interface
 ascii - american standard code for information interchange
 B
