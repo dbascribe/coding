@@ -6,6 +6,7 @@ aaa - authentication, authorization, accounting
 ace - access control entry
 acl - access control list
 aes - advanced encryption standard
+ajax - asynchronous javascript and xml
 ansi - american national standards institute
 api - application programming interface
 ascii - american standard code for information interchange
@@ -16,6 +17,7 @@ C
 cert - carnegie mellon university's computer emergency response team
 cpu - critical patch update
 crud - create read update delete 
+css - cascading style sheets
 cvss - common vulnerability score system
 D
 db - data base
@@ -33,6 +35,7 @@ gui - graphical user interface
 gsm - global system for mobile communications
 H
 hsm - hardware security model
+html - hypertext markup language
 http - hypertext transfer protocol
 https - hyptertext transfer protocol over secure socket layer
 I
@@ -50,6 +53,7 @@ jdk - java development kit
 jls - java language specification
 jre - java runtime environment
 jsr - java specification request
+json - javascript object notation
 jvm - java virtual machine
 K
 kic - keep it clean
@@ -97,6 +101,7 @@ quad - quick and dirty approach
 R
 radius - remote authentication dial-in user service
 rdbms - relational data base management system
+rest - representational state transfer
 roc - report on compliance
 rov - report on validation
 rsa - ron rivest, adi shamir, len adleman
@@ -107,6 +112,8 @@ sdlc - system development life cycle
 sha1 - secure hash algorithm version 1
 sha2 - secure hash algorithm version 2
 snmp - secure network management protocol
+soa - service oriented architecture
+soap - simple object access protocol
 spu - security patch update
 sql - structured query language
 ssh - secure shell
