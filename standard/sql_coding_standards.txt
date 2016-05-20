@@ -17,3 +17,37 @@ Three spaces
 example:
 first line starts here
    next line is indented with three spaces
+   
+c) filename extensions
+.tab: create table
+.alt: alter table (to add, modify, or drop a column)
+.ndx: create index
+.pkc: alter table/add constraint/primary key (usually included in the create table script)
+.fkc: alter table/add constraint/foreign key (usually included in the create table script)
+.ukc: alter table/add constraint/unique (usually included in the create table script)
+.drp: drop table
+.ins: insert into
+.upd: update
+.del: delete from
+.sql: select from
+.pkg: create or replace package
+   
+3) packages
+a) package specification (include header after create or replace)
+
+example:
+create or replace package <package_name>
+as
+-- filename  : file_name.pkg
+-- copyright : alexander tempel 2014-2016
+-- modification history:
+-- date        who         what
+-- 2016-12-31  atempel     created
+
+-- brief explanation
+
+-- one or more: constant, cursor, function, procedure, or variable declarations
+
+end <package_name>;
+
+b) and package body
