@@ -33,6 +33,7 @@ c) filename extensions
 .sql: select from
 .pkg: create or replace package (header)
 .pkb: create or replace package body
+.tst: contains test code or data
    
 3) packages
 a) package specification (include header after create or replace)
