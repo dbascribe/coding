@@ -19,6 +19,7 @@ first line starts here
    next line is indented with three spaces
    
 c) filename extensions
+.cre: create (common things like database, datafile ect.)
 .tab: create table
 .alt: alter table (to add, modify, or drop a column)
 .ndx: create index
