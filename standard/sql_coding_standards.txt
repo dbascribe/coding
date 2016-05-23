@@ -31,7 +31,8 @@ c) filename extensions
 .upd: update
 .del: delete from
 .sql: select from
-.pkg: create or replace package
+.pkg: create or replace package (header)
+.pkb: create or replace package body
    
 3) packages
 a) package specification (include header after create or replace)
