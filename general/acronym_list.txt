@@ -16,7 +16,8 @@ bp - bundle patch
 C
 cert - carnegie mellon university's computer emergency response team
 cpu - critical patch update
-crud - create read update delete 
+crud - create read update delete
+csprng - cryptographically secure pseudo-random number generator
 css - cascading style sheets
 cvss - common vulnerability score system
 D
