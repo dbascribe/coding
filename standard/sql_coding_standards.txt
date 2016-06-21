@@ -34,6 +34,7 @@ c) filename extensions
 .pkg: create or replace package (header)
 .pkb: create or replace package body
 .tst: contains test code or data
+.trg: create or replace trigger
    
 3) packages
 a) package specification (include header after create or replace)
