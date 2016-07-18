@@ -35,11 +35,13 @@ gprs - general packet radio service
 gui - graphical user interface
 gsm - global system for mobile communications
 H
+hmi - human machine interface
 hsm - hardware security model
 html - hypertext markup language
 http - hypertext transfer protocol
 https - hyptertext transfer protocol over secure socket layer
 I
+ics - industrial control system
 id - identifier, identity
 ide - integrated development environment
 ids - intrusion detection system
@@ -109,6 +111,7 @@ rsa - ron rivest, adi shamir, len adleman
 S
 s-ftp - sercure file transfer protocoll
 sans - sysadmin audit networking and security
+scada - supervisory control and data acquisition
 sdlc - system development life cycle
 sha1 - secure hash algorithm version 1
 sha2 - secure hash algorithm version 2
