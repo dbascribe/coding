@@ -15,6 +15,7 @@ bau - business as usual
 bp - bundle patch
 C
 cert - carnegie mellon university's computer emergency response team
+cert - computer emergency response team
 cpu - critical patch update
 crud - create read update delete
 csprng - cryptographically secure pseudo-random number generator
