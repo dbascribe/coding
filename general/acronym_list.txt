@@ -30,8 +30,10 @@ dry - don't repeat yourself
 dss - data security standard
 E
 F
+foss - free open source software
 ftp - file transfer protocol
 G
+gpl - general public license
 gprs - general packet radio service
 gui - graphical user interface
 gsm - global system for mobile communications
@@ -52,6 +54,7 @@ ip - internet protocol
 ips - intrusion prevention system
 ipsec - internet protocol security
 iso - international standardization organisation
+isv - independent software vendors
 J
 jdk - java development kit
 jls - java language specification
@@ -84,6 +87,7 @@ ntp - network time protocol
 nvd - national vulnerability database
 O
 octave - operationally critical threat asset and vulnerability evaluation
+oem - original equipment manufacturers
 or - on request
 os - operating system
 owasp - open web application security project
@@ -135,6 +139,7 @@ uml - unified modeling language
 url - uniform resource locator
 V
 va - virtual appliance
+var - value added resellers
 vh - virtual hypervisor
 vlan - virtual local area network
 vm - virtual machine
