@@ -32,7 +32,8 @@ E
 F
 foss - free open source software
 ftp - file transfer protocol
-fugazi - fucked up get ambushed zip in
+fubar - fu**ed up beyond all recognition (fu**ed up beyond all repair)
+fugazi - fu**ed up get ambushed zip in
 G
 gpl - general public license
 gprs - general packet radio service
