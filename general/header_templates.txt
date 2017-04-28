@@ -28,7 +28,7 @@ extended
 -- ps1 templates
 
 short
-
+<#
 .SYNOPSIS
    Cool Script 
 .DESCRIPTION
@@ -42,5 +42,6 @@ short
    2016-12-31  atempel     created
 .LINK
    http://www.dbascribe.com
-    
+#>
+
 # code starts here
