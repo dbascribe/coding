@@ -24,3 +24,20 @@ extended
    date        who         what
    2016-12-31  atempel     created
 */
+
+-- ps1 header
+
+short
+
+.SYNOPSIS
+   Cool Script 
+.DESCRIPTION
+   No really. It's really really cool"
+.NOTES
+   modification history:
+   date        who         what
+   2016-12-31  atempel     created
+.LINK
+   http://www.dbascribe.com
+    
+# code starts here
