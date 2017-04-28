@@ -4,7 +4,7 @@
 
 short
 -- filename  : file_name.sql
--- copyright : alexander tempel 2014-2016
+-- copyright : alexander tempel 2014-2017
 -- modification history:
 -- date        who         what
 -- 2016-12-31  atempel     created
@@ -14,9 +14,9 @@ extended
    version   : 1.0
    filename  : file_name.sql
    author    : alexander tempel
-   copyright : alexander tempel 2014-2016
+   copyright : alexander tempel 2014-2017
   
-   summary   : brier summary
+   summary   : brief summary
   
    acknowledgements    :
     
@@ -25,7 +25,7 @@ extended
    2016-12-31  atempel     created
 */
 
--- ps1 header
+-- ps1 templates
 
 short
 
@@ -34,6 +34,9 @@ short
 .DESCRIPTION
    No really. It's really really cool"
 .NOTES
+   version   : 1.0
+   author    : alexander tempel
+   copyright : alexander tempel 2014-2017
    modification history:
    date        who         what
    2016-12-31  atempel     created
