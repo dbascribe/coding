@@ -30,18 +30,25 @@ extended
 short
 <#
 .SYNOPSIS
-   Cool Script 
+   script version : 1.0
+   brief information
 .DESCRIPTION
-   No really. It's really really cool"
+   long information
+.EXAMPLE
+   example.ps1
+.INPUTS
+   n.a.
+.OUTPUTS
+   n.a.
 .NOTES
-   version   : 1.0
    author    : alexander tempel
    copyright : alexander tempel 2014-2017
    modification history:
    date        who         what
-   2016-12-31  atempel     created
+   2017-04-28  atempel     created
 .LINK
-   http://www.dbascribe.com
+   email : your e-mail adress
+   web   : your website
 #>
 
 # code starts here
