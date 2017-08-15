@@ -122,6 +122,7 @@ s-ftp - sercure file transfer protocoll
 sans - sysadmin audit networking and security
 scada - supervisory control and data acquisition
 sdlc - system development life cycle
+sha - still hacking anyway
 sha1 - secure hash algorithm version 1
 sha2 - secure hash algorithm version 2
 snmp - secure network management protocol
