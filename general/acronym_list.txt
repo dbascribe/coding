@@ -3,6 +3,7 @@
 3des - triple data encryption standard
 A
 aaa - authentication, authorization, accounting
+acab - all computers are broken
 ace - access control entry
 acl - access control list
 aes - advanced encryption standard
