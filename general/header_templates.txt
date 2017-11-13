@@ -7,7 +7,7 @@ short
 -- copyright : alexander tempel 2014-2017
 -- modification history:
 -- date        who         what
--- 2016-12-31  atempel     created
+-- 2017-mm-dd  atempel     created
 
 extended
 /*
