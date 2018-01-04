@@ -4,17 +4,17 @@
 
 short
 -- filename  : file_name.sql
--- copyright : alexander tempel 2014-2017
+-- copyright : alexander tempel 2014-2018
 -- modification history:
 -- date        who         what
--- 2017-mm-dd  atempel     created
+-- 2018-mm-dd  atempel     created
 
 extended
 /*
    version   : 1.0
    filename  : file_name.sql
    author    : alexander tempel
-   copyright : alexander tempel 2014-2017
+   copyright : alexander tempel 2014-2018
   
    summary   : brief summary
   
@@ -22,7 +22,7 @@ extended
     
    modification history:
    date        who         what
-   2016-12-31  atempel     created
+   2018-mm-dd  atempel     created
 */
 
 -- ps1 templates
@@ -42,10 +42,10 @@ short
    n.a.
 .NOTES
    author    : alexander tempel
-   copyright : alexander tempel 2014-2017
+   copyright : alexander tempel 2014-2018
    modification history:
    date        who         what
-   2017-04-28  atempel     created
+   2018-mm-dd  atempel     created
 .LINK
    email : your e-mail adress
    web   : your website
