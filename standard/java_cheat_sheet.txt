@@ -1,0 +1,110 @@
+-- filename  : java_cheat_sheet.txt
+-- copyright : alexander tempel 2014-2018
+-- modification history:
+-- date        who         what
+-- 2018-07-01  atempel     created
+
+ARRAYS
+
+int[] numbers = new int[2];
+    numbers[0] = 4;
+    numbers[1] = 42;
+
+int size = numbers.length;
+
+ - size of the an array can't be change
+ - index (position) of the first element starts with zero
+ - array lenght could be retrieved via property length
+ 
+LOOPS
+ 
+ 
+SCOPE
+ 
+ 
+CONSTRUCTORS
+ - Constructors are used to create objects
+ 
+ 
+THIS
+this. is used to distinguish the parameter from the attribute
+
+METHODS
+
+METHODS OVERLOAD
+
+ - Required: different parameter list
+ - Different amount of parameters
+ - Different type of parameters
+
+NULL
+ - Placeholder value for non-existing objects
+
+EXCEPTIONS
+
+PACKAGES
+ - Namespace that organizes a set of classes
+ - Similar to folders/directories on a computer
+ 
+ACCESS MODIFIER
+ - Control who (which classes) can access elements of our class
+ PUBLIC
+ - we use public for classes and methods
+ PRIVATE
+ - We use private for attributes
+ - Convention: declare attributes as private
+ GETTERS SETTERS
+ - Grant access to private attributes via public getters and setters
+ - Control read and write access
+ - Only Getter : Grant read access
+ - Only Setter : Grant write access
+ Getter and Setter : Grant both: read and write access
+ 
+ENCAPSULATION
+ - Prevents attributes from being accessed or modified in an uncontrolled way
+ - Enables validating arguments before they are assigned to a variable
+ - Internal implementation is hidden and can be changed
+
+INHERITANCE
+
+class <<subclass>> extends <<superclass>> { }
+
+ - Why? To produce maintainable code without redundancies
+ - Defines a 'protocol' for a class hierarchy
+ - All subclasses inherit all methods and attributes of the superclass
+ - Extract duplicated code to Superclass
+ - Inherit from Superclass
+ - Add more specific attributes and methods to Subclasses
+ - All classes inherit from class Object : Sorry for that (here Object is a class!)
+ - Inheritance is directed (every Car is a Vehicle, not every Vehicle is a Car)
+ - No multiple Inheritance (Subclasses can only inherit from one Superclass)
+ SUBCLASS
+ - Implicitly inherits all non-private methods from Superclass
+ - Implicitly inherits all non-private attributes from Superclass
+ - To add additional state... : more specific attributes can be added in the Subclass
+ - To add additional behavior... : more specific methods can be added in the Subclass
+
+one of its subclasses
+  OVERRIDE
+ - To provide a Subclass with alternative behavior... :  the Subclass can override methods of the Superclass
+ - The overriding method cannot have a more restrictive access modifier than the overridden method
+ - The parameters of the overriding method have to be exactly the same as those of the overridden method
+ - The return type has to be compatible
+ - Annotation @Override to inform compiler that there has to be a method to be overridden in the Superclass
+ - The implementation called is the lowest one in the hierarchy : most specialized
+ 
+POLYMORPHISM
+Subclass as Superclass
+- If we call a method of a Superclass, we execute the most specialized (most appropriate) behavior for every (subclass) object.
+- We can substitute an object of the superclass by an object of one of its subclasses
+- A variable that can hold an object of a certain class can also hold an object of the subclass.
+  We substitute the super class (left hand side) with a subclass object (right hand side)
+  
+  Vehicle v = new Car();
+
+- The compiler determines whether a method can be called on the basis of the data type of the variable
+- They comply to our protocol: per definition we can use a subclass in any place for a superclass
+- The most specialized method is called
+- New subclasses do not need modifications on the method code : improved maintainability
+
+SUPER

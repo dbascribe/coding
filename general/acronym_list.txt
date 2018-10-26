@@ -112,6 +112,7 @@ Q
 quad - quick and dirty approach
 R
 radius - remote authentication dial-in user service
+rbac - rule based access control
 rdbms - relational data base management system
 rest - representational state transfer
 roc - report on compliance
