@@ -6,11 +6,13 @@ aaa - authentication, authorization, accounting
 acab - all computers are broken
 ace - access control entry
 acl - access control list
+acs - azure security center
 aes - advanced encryption standard
 ajax - asynchronous javascript and xml
 ansi - american national standards institute
 api - application programming interface
 ascii - american standard code for information interchange
+asr - azure site recovery
 B
 bau - business as usual
 bp - bundle patch
