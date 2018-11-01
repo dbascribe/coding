@@ -136,6 +136,7 @@ spu - security patch update
 sql - structured query language
 ssh - secure shell
 ssl - secure sockets layer
+stonith - shoot the other node in the head
 sysadmin - system administrator
 T
 tcp - transmission control protocol
