@@ -41,6 +41,7 @@ short
 .OUTPUTS
    n.a.
 .NOTES
+   filename  : file_name.sql
    author    : alexander tempel
    copyright : alexander tempel 2014-2018
    modification history:
@@ -50,5 +51,19 @@ short
    email : your e-mail adress
    web   : your website
 #>
+
+# code starts here
+
+
+<#
+.NOTES
+   filename  : file_name.sql
+   author    : alexander tempel
+   copyright : alexander tempel 2014-2018
+   modification history:
+   date        who         what
+   2018-mm-dd  atempel     created
+   
+   #>
 
 # code starts here
