@@ -41,7 +41,7 @@ extended
 .OUTPUTS
    n.a.
 .NOTES
-   filename  : file_name.sql
+   filename  : file_name.ps1
    author    : alexander tempel
    copyright : alexander tempel 2014-2018
    modification history:
@@ -57,7 +57,7 @@ extended
 short
 <#
 .NOTES
-   filename  : file_name.sql
+   filename  : file_name.ps1
    author    : alexander tempel
    copyright : alexander tempel 2014-2018
    modification history:
