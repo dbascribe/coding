@@ -27,7 +27,7 @@ extended
 
 -- ps1 templates
 
-short
+extended
 <#
 .SYNOPSIS
    script version : 1.0
@@ -54,7 +54,7 @@ short
 
 # code starts here
 
-
+short
 <#
 .NOTES
    filename  : file_name.sql
